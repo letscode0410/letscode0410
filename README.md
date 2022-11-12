@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">I'm a Data  Enthusiast👨‍💻</h3>
-<h6 align="left">🏅 I recently completed my Data Science studies from iNeuron.ai</br>
+<h6 align="left">
 🎓 I have completed my B.tech from JNTUH</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in DATA World.</br>
 🤔 My interests are in Data Engineer, Software Development.</br>
